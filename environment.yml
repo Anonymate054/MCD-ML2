@@ -1,6 +1,7 @@
 # conda env create --file environment.yml
 # mamba env create --file environment.yml
 # conda env export --from-history > environment.yml
+# conda env export --no-builds > environemnt.yml
 
 # pip install optbinning
 # pip install ortools==9.6.2534
