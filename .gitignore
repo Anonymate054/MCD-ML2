@@ -248,6 +248,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # ignore models
-/models
+/models/project/pipeline_model.joblib
 
 # End of https://www.toptal.com/developers/gitignore/api/python,windows,linux,macos
